@@ -1,1 +1,2 @@
 This is another code file we have 
+This is a added line to file2
